@@ -1,0 +1,1 @@
+export 'package:cat_app/src/domain/errors/errors.dart';

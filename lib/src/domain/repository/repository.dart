@@ -1,0 +1,1 @@
+export 'package:cat_app/src/domain/repository/cat/cat_repository.dart';

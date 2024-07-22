@@ -1,0 +1,1 @@
+export 'package:cat_app/src/config/router/app_router.dart';
