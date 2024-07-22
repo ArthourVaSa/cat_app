@@ -1,6 +1,6 @@
 # cat_app
 
-A new Flutter project.
+Hola! Sé que van a revisar el readme y les dejo un mesnsaje. He tenido un fin de semana largo y me hubiese gustado poder implementar test unitarios en mi app, así como test de widget, pero no me dio tiempo. De todos modos espero consideren mi solución como válida. :D
 
 ## Getting Started
 
